@@ -1,5 +1,6 @@
-# Amazon_Vine_Analysis
-PySpark, AWS, NLP, and ETL process
+# Amazon Vine Analysis
+
+Cloud ETL with PySpark, SQL, Pandas, and AWS
 
 ## Overview of the Analysis
 
@@ -21,5 +22,13 @@ left with datasets of 60 Vine reviews, and 14,447 non-Vine reviews, respectively
 ![5 Star ratings](https://github.com/greensleeves8/Amazon_Vine_Analysis/blob/main/Resources/5_star_Reviews.png "5 Star Reviews")
 
 - 56.67% of the Vine reviews were rated 5 stars, and 56.72% of the non-Vine reviews were rated 5 stars.
-![% of 5 star ratings](
+![https://github.com/greensleeves8/Amazon_Vine_Analysis/blob/main/Resources/Vine_Summary_DF.png "% of 5 Star Reviews")
+
 ## Summary
+
+In summary, there does not seem to be any positivity bias among the Vine reviews, as the Vine reviews and the non-Vine
+reviews were essentially equal, with the non-Vine reviews actually having a slightly larger rate of positive reviews.
+The biggest issue with the current data is the relatively small sample of Vine reviews compared to the non-Vine reviews. 
+Personally, I would consider finding the rate of 5-star Vine reviews among the entire dataset as compared to the non-Vine
+reviews before filtering the sample down further. 
+
