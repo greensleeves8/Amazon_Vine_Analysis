@@ -5,8 +5,8 @@ Cloud ETL with PySpark, SQL, Pandas, and AWS
 ## Overview of the Analysis
 
 For this project we were tasked with using the cloud ETL process to analye datasets of Amazon reviews, 
-with the end goal of separating paid Amazon Vine reviews from non-Vine reviews. By separating the Vine and Non-
-Vine reviews, we're able to compare the two datasets and examine them for any bias toward favorable reviews
+with the end goal of separating paid Amazon Vine reviews from non-Vine reviews. By separating the Vine and 
+Non-Vine reviews, we're able to compare the two datasets and examine them for any bias toward favorable reviews
 that the Vine members may have.
 
 ## Results
@@ -22,7 +22,7 @@ left with datasets of 60 Vine reviews, and 14,447 non-Vine reviews, respectively
 ![5 Star ratings](https://github.com/greensleeves8/Amazon_Vine_Analysis/blob/main/Resources/5_star_Reviews.png "5 Star Reviews")
 
 - 56.67% of the Vine reviews were rated 5 stars, and 56.72% of the non-Vine reviews were rated 5 stars.
-![% of Five Star Reviews]https://github.com/greensleeves8/Amazon_Vine_Analysis/blob/main/Resources/Vine_Summary_DF.png "% of 5 Star Reviews")
+![% of Five Star Reviews](https://github.com/greensleeves8/Amazon_Vine_Analysis/blob/main/Resources/Vine_Summary_DF.png "% of 5 Star Reviews")
 
 ## Summary
 
