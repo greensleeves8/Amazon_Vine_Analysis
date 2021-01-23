@@ -18,5 +18,8 @@ left with datasets of 60 Vine reviews, and 14,447 non-Vine reviews, respectively
 ![Size of Vine and non-Vine DataFrames](https://github.com/greensleeves8/Amazon_Vine_Analysis/blob/main/Resources/Vine_reviews.png "Vine and non-Vine Reviews")
 
 - Of the Vine reviews, 34 were rated 5 stars. Of the non-Vine reviews, 8212 were rated 5 stars. 
-![5 Star ratings](
+![5 Star ratings](https://github.com/greensleeves8/Amazon_Vine_Analysis/blob/main/Resources/5_star_Reviews.png "5 Star Reviews")
+
+- 56.67% of the Vine reviews were rated 5 stars, and 56.72% of the non-Vine reviews were rated 5 stars.
+![% of 5 star ratings](
 ## Summary
